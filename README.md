@@ -1,4 +1,9 @@
+## ⚠️ Main repo has been moved to [LAION-AI/Discord-Scrapers](https://github.com/LAION-AI/Discord-Scrapers)
+
+This repo is now just for running backups
+
 # LAION-Dalle-Scraper
+
 Pipeline to scrape prompt + image url pairs from LAION `share-dalle-3` discord channel
 
 This is currently syncing to huggingface here: https://huggingface.co/datasets/laion/dalle-3-dataset
